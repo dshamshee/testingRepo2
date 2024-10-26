@@ -4,6 +4,6 @@ int main(){
     cout "Hello world";
 
     cout << "saldfkjsaf";
-    cout "Hello Dannish";
+    cout "Hello Danish";
 
 }
